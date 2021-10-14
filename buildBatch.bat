@@ -1,0 +1,1 @@
+"C:\Program Files\Unity\Hub\Editor\2019.2.12f1\Editor\Unity.exe" -quit -batchmode -logFile stdout.log -projectPath "D:\PROJECTS\BuildTest" -executeMethod WebGLBuilder.build
